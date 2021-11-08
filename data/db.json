@@ -1,0 +1,29 @@
+{
+  "decks": [
+    {
+      "name": "Test Deck",
+      "description": "This is for testing",
+      "id": 1
+    }
+  ],
+  "cards": [
+    {
+      "deckId": 1,
+      "front": "Who is the best NFL franchise?",
+      "back": "The Pittsburgh Steelers",
+      "id": 1
+    },
+    {
+      "deckId": 1,
+      "front": "Who is the QB of the Steelers?",
+      "back": "Big Ben",
+      "id": 2
+    },
+    {
+      "deckId": 1,
+      "front": "How many superbowls have the Steelers won?\n",
+      "back": "6",
+      "id": 3
+    }
+  ]
+}
